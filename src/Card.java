@@ -1,3 +1,3 @@
-public abstract class Card {
-    private int cardNumber;
+public record Card(String cardType, String cardName) {
+
 }

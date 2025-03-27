@@ -1,5 +1,3 @@
-public class Player implements PlayerAction {
-    public void draw() {
+public class Player extends Participant {
 
-    }
 }
